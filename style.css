@@ -1,0 +1,12 @@
+#add_book_form {
+    display: none;
+}
+.row {
+    text-align: center;
+}
+
+div.book {
+    border-style: solid;
+    margin: 5px;
+    padding: 5px;
+}
